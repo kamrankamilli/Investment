@@ -1,7 +1,7 @@
 <?php
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'Kamran7814');
+define('DB_PASSWORD', 'LifeBetterWithCode');
 define('DB_NAME', 'investment');
 
 
